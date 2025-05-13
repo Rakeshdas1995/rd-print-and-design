@@ -1,4 +1,6 @@
 
-body { font-family: sans-serif; background: #f9f9ff; margin: 0; padding: 20px; }
-nav { background: linear-gradient(90deg, #3f87a6, #ebf8e1); padding: 10px; display: flex; gap: 10px; }
-nav a { text-decoration: none; color: #000; font-weight: bold; }
+body { font-family: sans-serif; background: #f5faff; margin: 0; padding: 20px; }
+nav { background: linear-gradient(to right, #6a11cb, #2575fc); color: white; padding: 10px; display: flex; gap: 15px; }
+nav a { text-decoration: none; color: white; font-weight: bold; }
+select { margin-left: auto; }
+main { padding: 20px; }
